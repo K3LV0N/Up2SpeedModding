@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jg+f3qjYHhNEjIUMQnRUwSa29q2NhqWyaSKOxncbyyRnpQLOD40qsoL3Pmtzr+ceig0fewHKo3jk2AjY1Z+BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kyle\\Dropbox\\My PC (DESKTOP-FKBGLVA)\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Up2SpeedModding\\Up2SpeedModding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

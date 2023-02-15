@@ -1,0 +1,7 @@
+Up 2 Speed Modding is a mod designed to help modders start out with some basic things!
+
+I try to explain in detail how to do the things that are being done in the code.
+This mod aims to clear up any misunderstandings for basic modding concepts.
+
+If you like this, you should checkout exampleMod and its github page!
+exampleMod is an amazing reference as well!
