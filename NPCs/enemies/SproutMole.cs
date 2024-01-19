@@ -1,15 +1,9 @@
 ﻿using Terraria.GameContent.ItemDropRules;
 using Microsoft.Xna.Framework;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using Terraria.ModLoader.Utilities;
-using static IL.Terraria.WorldBuilding.Searches;
 
 namespace Up2SpeedModding.NPCs.enemies
 {
@@ -19,9 +13,6 @@ namespace Up2SpeedModding.NPCs.enemies
     {
         public override void SetStaticDefaults()
         {
-            // here we can add their name (similar to item)
-            DisplayName.SetDefault("Sprout Mole");
-
             // This right here is how many frames are in the animation
             // AKA this tells the program how many times to split your
             // png!

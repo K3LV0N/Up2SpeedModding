@@ -1,0 +1,11 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	MultiTool: {
+		DisplayName: Multi Tool
+		Tooltip: This is an axe, pickaxe, hammer and sword. That's a lot!
+	}
+}
+
+NPSs.SproutMole.DisplayName: SproutMole
+NPCs.SproutMole.DisplayName: Sprout Mole

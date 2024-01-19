@@ -165,3 +165,16 @@ C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLo
 C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\obj\Debug\net6.0\refint\Up2SpeedModding.dll
 C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\obj\Debug\net6.0\Up2SpeedModding.pdb
 C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\obj\Debug\net6.0\ref\Up2SpeedModding.dll
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Backports.dll
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Core.dll
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Iced.dll
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.ILHelpers.dll
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Backports.pdb
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Backports.xml
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Core.pdb
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Core.xml
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Iced.pdb
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Iced.xml
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.ILHelpers.pdb
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.RuntimeDetour.pdb
+C:\Users\Kyle\Dropbox\My PC (DESKTOP-FKBGLVA)\Documents\My Games\Terraria\tModLoader\ModSources\Up2SpeedModding\bin\Debug\net6.0\MonoMod.Utils.pdb

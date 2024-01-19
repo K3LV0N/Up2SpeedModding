@@ -10,11 +10,6 @@ namespace Up2SpeedModding.Items
 		public override void SetStaticDefaults()
 		{
 
-			// DisplayName is the name of the item in the game
-			// If you choose to not include this here, the name of 
-			// the item will default to the class name (MultiTool)
-			// with spaces put where capitals are. ex: "Multi Tool"
-			DisplayName.SetDefault("Excaxaper");
 
 
 			// This adds a translation for your name if you need it
@@ -22,16 +17,15 @@ namespace Up2SpeedModding.Items
 			// The 5 in AddTranslation tells the function that
 			// You can do the same for Tooltip
 			// This translates to epic sword
-			DisplayName.AddTranslation(5, "espada épica");
-
+			//DisplayName.AddTranslation(5, "espada épica");
 
 			// This is the desription of the item in the game
 			// If not included there will be no desrciption
-			Tooltip.SetDefault("This is an axe, pickaxe, hammer and sword. That's a lot!");
-
-			Tooltip.AddTranslation(5, "Esto es un hacha, un pico, un martillo y una espada. ¡Eso es mucho!");
+			//Tooltip.AddTranslation(5, "Esto es un hacha, un pico, un martillo y una espada. ¡Eso es mucho!");
 			
 		}
+
+
 
 		// This is where we set the stats of the item and such!
 		// There are a LOT of values we can set here so I am not
