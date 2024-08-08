@@ -17,15 +17,13 @@ namespace Up2SpeedModding.Items
 			// The 5 in AddTranslation tells the function that
 			// You can do the same for Tooltip
 			// This translates to epic sword
-			//DisplayName.AddTranslation(5, "espada épica");
+			// DisplayName.AddTranslation(5, "espada épica");
 
 			// This is the desription of the item in the game
 			// If not included there will be no desrciption
-			//Tooltip.AddTranslation(5, "Esto es un hacha, un pico, un martillo y una espada. ¡Eso es mucho!");
+			// Tooltip.AddTranslation(5, "Esto es un hacha, un pico, un martillo y una espada. ¡Eso es mucho!");
 			
 		}
-
-
 
 		// This is where we set the stats of the item and such!
 		// There are a LOT of values we can set here so I am not
@@ -98,7 +96,7 @@ namespace Up2SpeedModding.Items
 			Item.useAnimation = 20;
 
 			// How the item is used
-			Item.useStyle = 1;
+			Item.useStyle = ItemUseStyleID.Swing;
 
 			// How much knockback the item has
 			Item.knockBack = 6;
@@ -107,13 +105,15 @@ namespace Up2SpeedModding.Items
 			Item.value = 10000;
 
 			// What color the item's name is
-			Item.rare = 2;
+			Item.rare = ItemRarityID.Green;
 
 			// What sound is used when the item is used
 			Item.UseSound = SoundID.Item1;
 		}
 
 		// This is where we can add recipes for our item if we want!
+
+
 		public override void AddRecipes()
 		{
 			// To start we need to make a new recipe object, 

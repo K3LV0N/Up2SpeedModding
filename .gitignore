@@ -1,0 +1,6 @@
+## visual studio stuff ##
+*.sln
+*.vs
+
+## compiled mod ##
+*.dll

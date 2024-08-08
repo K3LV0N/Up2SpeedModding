@@ -4,6 +4,7 @@ using System;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
+using System.IO;
 
 namespace Up2SpeedModding.NPCs.enemies
 {
@@ -105,6 +106,7 @@ namespace Up2SpeedModding.NPCs.enemies
             // So this enemy has a 1/3 chance of dropping a dirt block!
             npcLoot.Add(ItemDropRule.Common(ItemID.DirtBlock, 3));
         }
+
 
 
         // This is where we can dtermine our spawn chance of our NPC

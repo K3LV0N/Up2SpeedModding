@@ -9,3 +9,10 @@ Items: {
 
 NPSs.SproutMole.DisplayName: SproutMole
 NPCs.SproutMole.DisplayName: Sprout Mole
+
+Buffs: {
+	BurnyStuff: {
+		DisplayName: Burny Stuff
+		Description: Mods.Up2SpeedModding.Buffs.BurnyStuff.Description
+	}
+}

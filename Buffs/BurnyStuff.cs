@@ -7,6 +7,8 @@ namespace Up2SpeedModding.Buffs
     {
         public override void Update(Player player, ref int buffIndex)
         {
+            // set the dubuff status here to true
+            // our debuff status thing here is the burnyStuffDebuff bool in the player class don below
             player.GetModPlayer<BurnyStuffPlayer>().burnyStuffDebuff = true;
         }
 
@@ -23,7 +25,6 @@ namespace Up2SpeedModding.Buffs
             }
 
             // THIS PART IS OPTIONAL FOR NPCS
-
 
 
             // lifeRegen is 1/2 per second (for some reason) so this -= 16 results in -8 health per second
